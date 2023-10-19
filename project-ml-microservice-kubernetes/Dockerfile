@@ -1,5 +1,5 @@
-# FROM python:3.7.3-stretch
-FROM python:3.9
+#FROM python:3.7.3-stretch
+FROM python:3.9.18
 ## Step 1:
 # Create a working directory
 WORKDIR /app
