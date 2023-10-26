@@ -13,4 +13,5 @@ docker image ls
 
 # Step 3: 
 # Run flask app
-docker run -p 8000:80 0905062524/flaskapp:1.0
+#docker run -p 8000:80 0905062524/flaskapp:1.0
+docker run -p 80:80 0905062524/flaskapp:1.0
