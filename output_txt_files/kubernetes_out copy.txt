@@ -1,5 +1,5 @@
 <paste log output from Kubernetes-mediated prediction, here>
-
+Note: Between the docker output and kubernetes output, I did change app port from 8000 to 80 to do some testings, so if there is any differences between txt, it is because of that.
 megluka@MacBook-Pro-cua-Megluka test % ./run_kubernetes.sh
 Error from server (AlreadyExists): pods "flask-app" already exists
 NAMESPACE     NAME                                  READY   STATUS    RESTARTS   AGE
