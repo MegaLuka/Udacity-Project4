@@ -1,4 +1,3 @@
-<include a CircleCI status badge, here>
 [![CircleCI](https://circleci.com/gh/MegaLuka/Udacity-Project4/tree/dev.svg?style=svg)](https://circleci.com/gh/MegaLuka/Udacity-Project4/?branch=dev)
 
 ## Project Overview
