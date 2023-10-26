@@ -4,7 +4,8 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build --tag=api . 
+docker build --tag=0905062524/flaskapp:1.0 . 
+# docker build --tag=0905062524/api . 
 
 # Step 2: 
 # List docker images
@@ -12,4 +13,5 @@ docker image ls
 
 # Step 3: 
 # Run flask app
-docker run -p 8000:80 api
+#docker run -p 8000:80 0905062524/flaskapp:1.0
+docker run -p 80:80 0905062524/flaskapp:1.0
