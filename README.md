@@ -1,7 +1,7 @@
 <include a CircleCI status badge, here>
 !https://circleci.com/gh/MegaLuka/Udacity-Project4.svg?style=svg!:https://app.circleci.com/pipelines/github/MegaLuka/Udacity-Project4/12/workflows/52ca0531-86bc-4649-a7b9-d098e9b19def
 
-[![CircleCI](https://circleci.com/gh/circleci/Udacity-Project4.svg?style=svg)](https://circleci.com/gh/circleci/Udacity-Project4)
+[![CircleCI](https://circleci.com/gh/MegaLuka/Udacity-Project4.svg?style=svg)](https://circleci.com/gh/MegaLuka/Udacity-Project4)
 
 ## Project Overview
 
