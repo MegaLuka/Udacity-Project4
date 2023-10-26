@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-[![CircleCI](https://circleci.com/gh/MegaLuka/Udacity-Project4.svg?style=svg)](https://circleci.com/gh/MegaLuka/Udacity-Project4/14/workflows/f3647970-a923-42ba-aaf0-08fa6d54c184/jobs/17)
+[![CircleCI](https://circleci.com/gh/MegaLuka/Udacity-Project4/tree/dev.svg?style=svg)](https://circleci.com/gh/MegaLuka/Udacity-Project4/?branch=dev)
 
 ## Project Overview
 
