@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/MegaLuka/Udacity-Project4/tree/dev.svg?style=svg)](https://circleci.com/gh/MegaLuka/Udacity-Project4/?branch=dev)
+[![CircleCI](https://circleci.com/gh/MegaLuka/Udacity-Project4/tree/main.svg?style=svg)](https://circleci.com/gh/MegaLuka/Udacity-Project4/?branch=main)
 
 ## Project Overview
 
